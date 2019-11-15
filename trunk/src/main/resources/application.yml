@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: as1368592
+    url: jdbc:mysql://122.152.223.151/demo?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+  jpa:
+    show-sql: true
+# 对象属性为null的话不返回
