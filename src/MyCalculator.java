@@ -113,7 +113,7 @@ public class MyCalculator {
         cButton.setBounds(10, 200, 80, 25);
         panel.add(cButton);
 
-
+        //测试一下
 
         //显示值
         JLabel jtext1=ToolMy.jlabel(10,230,160,25,"人物神圣伤害)");
